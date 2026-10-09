@@ -1,0 +1,10 @@
+{
+  "name": "AI-MasterPlan",
+  "short_name": "AI-MasterPlan",
+  "description": "From zero coding to independent AI builder — learn by building.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a23",
+  "theme_color": "#0a0a23",
+  "icons": []
+}

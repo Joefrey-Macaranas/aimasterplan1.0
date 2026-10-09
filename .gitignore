@@ -1,0 +1,11 @@
+# Runtime data (regenerated/seeded on boot — never commit: user hashes, tokens, PII)
+data/
+server.log
+backups/
+deploy/.env
+deploy/.pid
+# Local tooling / OS
+node_modules/
+.DS_Store
+.playwright-cli/
+.playwright-mcp/
